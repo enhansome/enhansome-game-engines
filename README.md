@@ -50,7 +50,7 @@ make a contribution.
 
 # E (3):
 
-* [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,402 | 🐛 292 | 🌐 Go | 📅 2026-08-18 - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
+* [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,404 | 🐛 292 | 🌐 Go | 📅 2026-08-18 - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
 * [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 1,994 | 🐛 34 | 🌐 C++ | 📅 2026-08-19 - ezEngine is a free, open source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. EZ utilizes a plugin system to integrate features such as FMOD or Jolt Physics. This makes it possible to only include those features that you need, or to replace systems with a custom solution that works better for your requirements. Similarly, the EZ code base can be built in multiple tiers, where you either get the entire feature set, with a fully functional editor, asset management and renderer, or you can strip it down to just the base libraries and core engine functionality. This can be extremely useful if you need to build a lot of custom technology, but require a high-performance, reliable foundation. EZ has a strong emphasis on providing robust, easy to use and well-tested base functionality. It is successfully being used in such a capacity in commercial products.
 * [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform. Just released version 2023.9. This version represents a fairly significant upgrade as it adds a Metal renderer and iOS as a target platform. The Evergine game engine is free to use, with commercial support and source code licenses available.
 
@@ -60,13 +60,13 @@ make a contribution.
 * [Flax](https://flaxengine.com/) - Flax Engine is a high quality modern 3D game engine written in C++ and C#. From stunning graphics to powerful scripts - Flax can give everything for your games. Designed for fast workflow with many ready to use features waiting for you right now.
 * [Flowlab.io](https://flowlab.io/) - Flowlab is a browser-based 2D game engine with a visual logic builder, designed to make it easy to get started making games.
 * [FNA](https://fna-xna.github.io/) - FNA - Accuracy-focused XNA4 reimplementation for open platforms.
-* [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,514 | 🐛 59 | 🌐 Rust | 📅 2026-08-18 - A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.
+* [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,513 | 🐛 59 | 🌐 Rust | 📅 2026-08-19 - A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.
 
 # G (3):
 
 * [Game Maker](https://gamemaker.io/en) - GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the visual programming features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.
 * [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone. GDevelop is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
-* [Godot](https://github.com/godotengine/godot) ⭐ 115,867 | 🐛 18,735 | 🌐 C++ | 📅 2026-08-19 - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
+* [Godot](https://github.com/godotengine/godot) ⭐ 115,881 | 🐛 18,724 | 🌐 C++ | 📅 2026-08-19 - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
 
 # H (7):
 
@@ -118,7 +118,7 @@ make a contribution.
 * [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
 * [Orx](https://orx-project.org/) - Orx is a 2.5D data-driven game development engine. It is open source, ultra-fast, multi-platform and full-featured for C/C++ programmers: beginners and experts alike.
-* [Overload](https://github.com/Overload-Technologies/Overload) ⭐ 2,460 | 🐛 88 | 🌐 C++ | 📅 2026-06-18 - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
+* [Overload](https://github.com/Overload-Technologies/Overload) ⭐ 2,460 | 🐛 88 | 🌐 C++ | 📅 2026-08-19 - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
 
 # P (2):
 

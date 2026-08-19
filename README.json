@@ -132,7 +132,7 @@
             "last_commit": "2026-08-18T18:53:48Z",
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13402
+            "stars": 13404
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-19T09:31:27Z",
+            "last_commit": "2026-08-19T16:17:16Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
             "stars": 1994
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 279640775,
             "language": "C++",
-            "last_commit": "2026-08-19T10:58:18Z",
+            "last_commit": "2026-08-19T18:35:33Z",
             "owner": "hotstreams",
             "repo": "limitless-engine",
             "stars": 632
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 28911161,
             "language": "C++",
-            "last_commit": "2026-08-19T11:20:10Z",
+            "last_commit": "2026-08-19T15:22:27Z",
             "owner": "apistol78",
             "repo": "traktor",
             "stars": 556
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:27.426Z",
+    "last_updated": "2026-08-19T19:04:02.184Z",
     "original_repository": "ChessMax/awesome-game-engines",
     "original_repository_id": 692994172,
     "original_repository_sha": "19771cf8575ae897e170a4e9955f86b7e59e62b9",
