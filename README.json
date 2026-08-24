@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AnKi 3D Engine",
+          "description": "Vulkan backend, modern renderer, scripting, physics and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23955091,
+            "language": "C++",
+            "last_commit": "2026-08-13T10:46:58Z",
+            "owner": "godlikepanos",
+            "repo": "anki-3d-engine",
+            "stars": 1608
+          }
+        }
+      ],
+      "title": "A (3):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bonsai",
+          "description": "Bonsai is a 3D voxel-based engine built with the intention of writing both fast-paced arcade games and tile/turn-based RPGs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74796411,
+            "language": "C",
+            "last_commit": "2026-08-14T00:08:27Z",
+            "owner": "scallyw4g",
+            "repo": "bonsai",
+            "stars": 1249
+          }
+        }
+      ],
+      "title": "B (3):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Crown",
           "description": "Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.",
           "children": [],
@@ -15,7 +57,7 @@
             "last_commit": "2026-08-23T18:47:32Z",
             "owner": "crownengine",
             "repo": "crown",
-            "stars": 2436
+            "stars": 2437
           }
         },
         {
@@ -27,7 +69,7 @@
             "archived": false,
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-23T18:58:21Z",
+            "last_commit": "2026-08-24T14:39:52Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1861
@@ -42,7 +84,7 @@
             "archived": false,
             "id": 30114388,
             "language": "Pascal",
-            "last_commit": "2026-08-20T12:48:28Z",
+            "last_commit": "2026-08-24T03:28:43Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
             "stars": 1237
@@ -96,7 +138,7 @@
             "last_commit": "2026-08-16T19:02:13Z",
             "owner": "GaijinEntertainment",
             "repo": "DagorEngine",
-            "stars": 2949
+            "stars": 2950
           }
         },
         {
@@ -111,7 +153,7 @@
             "last_commit": "2026-08-17T19:08:30Z",
             "owner": "sergcpp",
             "repo": "DummyEngine",
-            "stars": 418
+            "stars": 419
           }
         },
         {
@@ -159,10 +201,10 @@
             "archived": false,
             "id": 10721619,
             "language": "Go",
-            "last_commit": "2026-08-23T17:07:32Z",
+            "last_commit": "2026-08-24T14:26:02Z",
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13415
+            "stars": 13418
           }
         },
         {
@@ -174,14 +216,56 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-23T17:50:33Z",
+            "last_commit": "2026-08-24T13:18:59Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 1997
+            "stars": 1998
           }
         }
       ],
       "title": "E (3):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fyrox",
+          "description": "A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178597005,
+            "language": "Rust",
+            "last_commit": "2026-08-23T14:42:19Z",
+            "owner": "FyroxEngine",
+            "repo": "Fyrox",
+            "stars": 9524
+          }
+        }
+      ],
+      "title": "F (5):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Godot",
+          "description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15634981,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:08:08Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 116080
+          }
+        }
+      ],
+      "title": "G (3):"
     },
     {
       "description": null,
@@ -198,7 +282,7 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13084
+            "stars": 13086
           }
         },
         {
@@ -297,10 +381,10 @@
             "archived": false,
             "id": 14590125,
             "language": "C++",
-            "last_commit": "2026-08-22T19:11:27Z",
+            "last_commit": "2026-08-23T22:34:18Z",
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3870
+            "stars": 3869
           }
         },
         {
@@ -414,7 +498,7 @@
             "archived": false,
             "id": 189073851,
             "language": "C++",
-            "last_commit": "2026-08-11T16:33:05Z",
+            "last_commit": "2026-08-24T13:51:00Z",
             "owner": "nCine",
             "repo": "nCine",
             "stars": 1327
@@ -429,7 +513,7 @@
             "archived": false,
             "id": 164856783,
             "language": "C++",
-            "last_commit": "2026-08-22T16:43:26Z",
+            "last_commit": "2026-08-24T14:28:47Z",
             "owner": "gscept",
             "repo": "nebula",
             "stars": 1091
@@ -473,6 +557,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Overload",
+          "description": "Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191771083,
+            "language": "C++",
+            "last_commit": "2026-08-19T18:16:33Z",
+            "owner": "Overload-Technologies",
+            "repo": "Overload",
+            "stars": 2466
+          }
+        }
+      ],
+      "title": "O (5):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parin",
+          "description": "A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767346331,
+            "language": "D",
+            "last_commit": "2026-08-17T23:38:12Z",
+            "owner": "Kapendev",
+            "repo": "parin",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "P (2):"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Rebel Fork Framework",
           "description": "Rebel Fork Framework aka rbfx is an experimental fork of Urho3D game engine distributed under MIT license. Rebel Fork Framework is:",
           "children": [],
@@ -483,7 +609,7 @@
             "last_commit": "2026-08-23T15:07:19Z",
             "owner": "rbfx",
             "repo": "rbfx",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -516,7 +642,7 @@
             "archived": false,
             "id": 220988542,
             "language": "C++",
-            "last_commit": "2026-08-21T09:19:35Z",
+            "last_commit": "2026-08-24T11:07:14Z",
             "owner": "skylicht-lab",
             "repo": "skylicht-engine",
             "stars": 768
@@ -537,7 +663,7 @@
             "archived": false,
             "id": 128689753,
             "language": "C++",
-            "last_commit": "2026-08-23T07:47:18Z",
+            "last_commit": "2026-08-24T07:21:27Z",
             "owner": "fegennari",
             "repo": "3DWorld",
             "stars": 1412
@@ -555,7 +681,7 @@
             "last_commit": "2026-08-22T17:41:57Z",
             "owner": "thunder-engine",
             "repo": "thunder",
-            "stars": 668
+            "stars": 670
           }
         },
         {
@@ -570,7 +696,7 @@
             "last_commit": "2026-08-23T03:29:29Z",
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 558
+            "stars": 559
           }
         },
         {
@@ -618,7 +744,7 @@
             "archived": false,
             "id": 1106692602,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:17:54Z",
+            "last_commit": "2026-08-23T23:30:44Z",
             "owner": "vanyle",
             "repo": "vectarine",
             "stars": 133
@@ -654,7 +780,7 @@
             "archived": false,
             "id": 327396855,
             "language": null,
-            "last_commit": "2026-07-15T10:28:38Z",
+            "last_commit": "2026-08-23T21:18:43Z",
             "owner": "redorav",
             "repo": "public_source_engines",
             "stars": 763
@@ -665,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:58:46.298Z",
+    "last_updated": "2026-08-24T14:40:16.530Z",
     "original_repository": "ChessMax/awesome-game-engines",
     "original_repository_id": 692994172,
     "original_repository_sha": "184b329f99d5c67da95c06720739086607fb7cf4",
