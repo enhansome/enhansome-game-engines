@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T10:46:58Z",
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
-            "stars": 1608
+            "stars": 1609
           }
         }
       ],
@@ -54,10 +54,10 @@
             "archived": false,
             "id": 5321315,
             "language": "C++",
-            "last_commit": "2026-08-24T23:03:49Z",
+            "last_commit": "2026-08-25T12:07:49Z",
             "owner": "crownengine",
             "repo": "crown",
-            "stars": 2437
+            "stars": 2439
           }
         },
         {
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-25T06:06:20Z",
+            "last_commit": "2026-08-25T19:03:04Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
-            "stars": 1861
+            "stars": 1860
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 175903359,
             "language": "C",
-            "last_commit": "2026-08-24T21:55:51Z",
+            "last_commit": "2026-08-25T18:28:03Z",
             "owner": "RandyGaul",
             "repo": "cute_framework",
             "stars": 829
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 1036687907,
             "language": "C++",
-            "last_commit": "2026-08-18T00:45:10Z",
+            "last_commit": "2026-08-25T12:24:38Z",
             "owner": "anjo76",
             "repo": "angelscript",
             "stars": 269
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 70403001,
             "language": "D",
-            "last_commit": "2026-08-19T11:49:39Z",
+            "last_commit": "2026-08-25T09:10:16Z",
             "owner": "gecko0307",
             "repo": "dagon",
             "stars": 406
@@ -201,7 +201,7 @@
             "archived": false,
             "id": 10721619,
             "language": "Go",
-            "last_commit": "2026-08-25T05:40:09Z",
+            "last_commit": "2026-08-25T15:50:13Z",
             "owner": "hajimehoshi",
             "repo": "ebiten",
             "stars": 13418
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-24T13:18:59Z",
+            "last_commit": "2026-08-25T14:17:05Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
             "stars": 1999
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-23T14:42:19Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9524
+            "stars": 9525
           }
         }
       ],
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-25T02:55:29Z",
+            "last_commit": "2026-08-25T17:19:05Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116100
+            "stars": 116134
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13088
+            "stars": 13089
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 164856783,
             "language": "C++",
-            "last_commit": "2026-08-24T14:28:47Z",
+            "last_commit": "2026-08-25T10:07:43Z",
             "owner": "gscept",
             "repo": "nebula",
             "stars": 1091
@@ -564,7 +564,7 @@
             "archived": false,
             "id": 191771083,
             "language": "C++",
-            "last_commit": "2026-08-19T18:16:33Z",
+            "last_commit": "2026-08-25T14:05:57Z",
             "owner": "Overload-Technologies",
             "repo": "Overload",
             "stars": 2466
@@ -606,7 +606,7 @@
             "archived": false,
             "id": 54325713,
             "language": "C++",
-            "last_commit": "2026-08-23T15:07:19Z",
+            "last_commit": "2026-08-25T12:15:25Z",
             "owner": "rbfx",
             "repo": "rbfx",
             "stars": 1032
@@ -642,7 +642,7 @@
             "archived": false,
             "id": 220988542,
             "language": "C++",
-            "last_commit": "2026-08-24T11:07:14Z",
+            "last_commit": "2026-08-25T10:56:15Z",
             "owner": "skylicht-lab",
             "repo": "skylicht-engine",
             "stars": 768
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 128689753,
             "language": "C++",
-            "last_commit": "2026-08-24T07:21:27Z",
+            "last_commit": "2026-08-25T07:16:39Z",
             "owner": "fegennari",
             "repo": "3DWorld",
             "stars": 1413
@@ -693,10 +693,10 @@
             "archived": false,
             "id": 28911161,
             "language": "C++",
-            "last_commit": "2026-08-25T05:33:04Z",
+            "last_commit": "2026-08-25T12:26:39Z",
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 560
+            "stars": 561
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-07-09T07:46:16Z",
             "owner": "Gforcex",
             "repo": "OpenGraphic",
-            "stars": 2272
+            "stars": 2273
           }
         },
         {
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:25.901Z",
+    "last_updated": "2026-08-25T19:10:04.194Z",
     "original_repository": "ChessMax/awesome-game-engines",
     "original_repository_id": 692994172,
     "original_repository_sha": "184b329f99d5c67da95c06720739086607fb7cf4",
