@@ -12,7 +12,7 @@
             "archived": false,
             "id": 23955091,
             "language": "C++",
-            "last_commit": "2026-08-26T08:03:29Z",
+            "last_commit": "2026-08-27T18:27:56Z",
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
             "stars": 1610
@@ -54,10 +54,10 @@
             "archived": false,
             "id": 5321315,
             "language": "C++",
-            "last_commit": "2026-08-27T10:14:18Z",
+            "last_commit": "2026-08-27T23:29:29Z",
             "owner": "crownengine",
             "repo": "crown",
-            "stars": 2437
+            "stars": 2438
           }
         },
         {
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-27T11:35:43Z",
+            "last_commit": "2026-08-28T02:16:13Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1860
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 10721619,
             "language": "Go",
-            "last_commit": "2026-08-26T18:26:42Z",
+            "last_commit": "2026-08-27T19:40:45Z",
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13421
+            "stars": 13426
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-27T09:01:46Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2000
+            "stars": 2001
           }
         }
       ],
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:42:19Z",
+            "last_commit": "2026-08-27T19:33:03Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9528
+            "stars": 9529
           }
         }
       ],
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-27T01:39:48Z",
+            "last_commit": "2026-08-27T17:33:08Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116217
+            "stars": 116248
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13089
+            "stars": 13088
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-26T22:10:43Z",
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3869
+            "stars": 3870
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-05-23T01:41:18Z",
             "owner": "hexops",
             "repo": "mach",
-            "stars": 4829
+            "stars": 4832
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2026-08-25T14:05:57Z",
             "owner": "Overload-Technologies",
             "repo": "Overload",
-            "stars": 2467
+            "stars": 2468
           }
         }
       ],
@@ -693,10 +693,10 @@
             "archived": false,
             "id": 28911161,
             "language": "C++",
-            "last_commit": "2026-08-27T08:33:04Z",
+            "last_commit": "2026-08-27T13:38:57Z",
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2026-08-23T21:18:43Z",
             "owner": "redorav",
             "repo": "public_source_engines",
-            "stars": 765
+            "stars": 766
           }
         }
       ],
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:15.397Z",
+    "last_updated": "2026-08-28T02:17:18.878Z",
     "original_repository_info": {
       "archived": false,
       "id": 692994172,
