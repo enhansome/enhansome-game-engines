@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AnKi 3D Engine - Vulkan and D3D12, modern renderer, scripting, physics and more",
+            "homepage": "http://www.anki3d.org",
             "id": 23955091,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:16:33Z",
+            "open_issues": 12,
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
-            "stars": 1610
+            "stars": 1610,
+            "topics": [
+              "3d",
+              "android",
+              "c-plus-plus",
+              "cpp",
+              "d3d12",
+              "game-engine",
+              "graphics",
+              "linux",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -32,12 +48,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The procedural generation voxel engine",
+            "homepage": null,
             "id": 74796411,
             "language": "C",
+            "license": "WTFPL",
             "last_commit": "2026-08-14T00:08:27Z",
+            "open_issues": 27,
             "owner": "scallyw4g",
             "repo": "bonsai",
-            "stars": 1254
+            "stars": 1254,
+            "topics": [
+              "engine",
+              "game",
+              "game-engine",
+              "gameengi",
+              "gameengine",
+              "gles3",
+              "graphics",
+              "multithreading",
+              "opengl",
+              "opengl-es",
+              "procedural-generation",
+              "voxel",
+              "voxel-editor",
+              "voxel-engine",
+              "voxel-game",
+              "voxel-game-engine",
+              "voxel-terrain",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -54,12 +94,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete and cross-platform game engine designed for flexibility, performance and fast iteration.",
+            "homepage": "https://www.crownengine.org",
             "id": 5321315,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:06:31Z",
+            "open_issues": 46,
             "owner": "crownengine",
             "repo": "crown",
-            "stars": 2438
+            "stars": 2438,
+            "topics": [
+              "2d",
+              "3d",
+              "data-driven",
+              "data-oriented-design",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -70,12 +124,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.",
+            "homepage": "https://www.codenameone.com/",
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-28T23:15:59Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:54:49Z",
+            "open_issues": 268,
             "owner": "codenameone",
             "repo": "CodenameOne",
-            "stars": 1860
+            "stars": 1860,
+            "topics": [
+              "android",
+              "aot",
+              "app-framework",
+              "codename-one",
+              "compiler",
+              "cross-platform",
+              "desktop",
+              "graphics",
+              "ios",
+              "java",
+              "jvm",
+              "kotlin",
+              "linux",
+              "macos",
+              "maven",
+              "mobile-development",
+              "pwa",
+              "watchos",
+              "wear-os",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -86,12 +166,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform (desktop, mobile, console, web) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, IFC and more. Fast clean code using modern Pascal. Free and open-source.",
+            "homepage": "https://castle-engine.io/",
             "id": 30114388,
             "language": "Pascal",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:33:09Z",
+            "open_issues": 88,
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1237
+            "stars": 1237,
+            "topics": [
+              "2d-game-engine",
+              "3d-game-engine",
+              "castle-game-engine",
+              "delphi",
+              "delphi-game",
+              "delphi-game-engine",
+              "delphi-library",
+              "delphi-source",
+              "firemonkey",
+              "fmx",
+              "fpc",
+              "freepascal",
+              "game-engine",
+              "gltf",
+              "hacktoberfest",
+              "lazarus-ide",
+              "object-pascal",
+              "pascal",
+              "vcl",
+              "x3d"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -102,12 +208,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The *cutest* framework out there for creating 2D and 3D games in C++!",
+            "homepage": "https://randygaul.github.io/cute_framework/",
             "id": 175903359,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:26:55Z",
+            "open_issues": 7,
             "owner": "RandyGaul",
             "repo": "cute_framework",
-            "stars": 833
+            "stars": 834,
+            "topics": [
+              "cross-platform",
+              "game-development",
+              "game-engine",
+              "game-framework",
+              "gamedev",
+              "multi-platform",
+              "open-source",
+              "videogames"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -118,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AngelCode Scripting Library, or AngelScript as it is also known, is an extremely flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts. It has been designed from the beginning to be an easy to use component, both for the application programmer and the script writer.",
+            "homepage": "https://www.angelcode.com/angelscript",
             "id": 1036687907,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T12:24:38Z",
+            "open_issues": 27,
             "owner": "anjo76",
             "repo": "angelscript",
-            "stars": 269
+            "stars": 269,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -140,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dagor Engine and Tools source code from Gaijin Games KFT",
+            "homepage": null,
             "id": 692466122,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T19:02:13Z",
+            "open_issues": 74,
             "owner": "GaijinEntertainment",
             "repo": "DagorEngine",
-            "stars": 2954
+            "stars": 2954,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -156,12 +286,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Сross-platform Vulkan/OpenGL 3D engine for personal experimentation",
+            "homepage": null,
             "id": 152606536,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:08:30Z",
+            "open_issues": 1,
             "owner": "sergcpp",
             "repo": "DummyEngine",
-            "stars": 418
+            "stars": 418,
+            "topics": [
+              "engine",
+              "opengl",
+              "raytracing",
+              "renderer",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -172,12 +313,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D game engine for D",
+            "homepage": "https://gecko0307.github.io/dagon/",
             "id": 70403001,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T09:10:16Z",
+            "open_issues": 7,
             "owner": "gecko0307",
             "repo": "dagon",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "dlang",
+              "game-engine",
+              "opengl",
+              "rendering",
+              "sdl2"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -188,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework to make games with. Could call it an engine if it becomes more.",
+            "homepage": null,
             "id": 760137477,
             "language": "C",
+            "license": null,
             "last_commit": "2024-08-11T20:28:55Z",
+            "open_issues": 0,
             "owner": "zet23t",
             "repo": "dusk-engine",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -210,12 +369,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dead simple 2D game engine for Go",
+            "homepage": "https://ebitengine.org",
             "id": 10721619,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:58:45Z",
+            "open_issues": 283,
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13430
+            "stars": 13430,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "game",
+              "game-2d",
+              "game-development",
+              "game-engine",
+              "game-engine-2d",
+              "game-library",
+              "gamedev",
+              "go",
+              "golang",
+              "golang-library"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -226,12 +403,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source C++ game engine.",
+            "homepage": "https://ezEngine.net",
             "id": 18179848,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:28:34Z",
+            "open_issues": 36,
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2004
+            "stars": 2004,
+            "topics": [
+              "3d-game-engine",
+              "3d-graphics",
+              "c-plus-plus",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -248,12 +436,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D and 2D game engine written in Rust",
+            "homepage": "https://fyrox.rs",
             "id": 178597005,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:51:48Z",
+            "open_issues": 59,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9529
+            "stars": 9529,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "engine",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gui",
+              "rendering",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -270,12 +474,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "homepage": "https://godotengine.org",
             "id": 15634981,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:21:06Z",
+            "open_issues": 18785,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116307
+            "stars": 116319,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "godot",
+              "godotengine",
+              "multi-platform",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -292,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hazel Engine",
+            "homepage": null,
             "id": 153866232,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-20T19:01:27Z",
+            "open_issues": 135,
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13087
+            "stars": 13087,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -308,12 +530,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.",
+            "homepage": "http://horde3d.org/",
             "id": 12648744,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-07-30T20:48:15Z",
+            "open_issues": 22,
             "owner": "horde3d",
             "repo": "Horde3D",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "3d-graphics",
+              "rendering-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -324,12 +554,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform desktop, mobile, and WebGL game engine, based on FlashPunk",
+            "homepage": null,
             "id": 1380496,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2022-08-29T16:43:04Z",
+            "open_issues": 22,
             "owner": "HaxePunk",
             "repo": "HaxePunk",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "2d-game-engine",
+              "flashpunk",
+              "game-engine",
+              "haxe",
+              "haxelib",
+              "haxepunk",
+              "openfl"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -340,12 +583,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Game Engine",
+            "homepage": null,
             "id": 133911958,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-11-12T08:24:41Z",
+            "open_issues": 13,
             "owner": "Hork-Engine",
             "repo": "Hork-Source",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "forward-plus",
+              "framegraph",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "hork",
+              "hork-engine",
+              "open-source",
+              "opengl",
+              "pbr"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -362,12 +623,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jet-Lagged Engine is a work-in-progress C++/Lua game engine supporting Windows, Linux, Mac and browsers.",
+            "homepage": null,
             "id": 323755246,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-19T19:55:06Z",
+            "open_issues": 7,
             "owner": "Mormert",
             "repo": "jle",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "2d-graphics",
+              "3d-graphics",
+              "cross-platform",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-engines",
+              "game-framework",
+              "opengl",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -378,12 +655,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use cross-platform 2D game library for C++",
+            "homepage": "https://bixense.com/jngl/",
             "id": 1313517,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2026-08-26T21:28:18Z",
+            "open_issues": 11,
             "owner": "jhasse",
             "repo": "jngl",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "android",
+              "cross-platform",
+              "game-engine",
+              "game-engine-2d",
+              "gamedev",
+              "ios",
+              "linux",
+              "macos",
+              "nintendo-switch",
+              "openal",
+              "opengl",
+              "windows",
+              "xbox"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -400,12 +696,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D C++ Game Engine - yet another open source game engine",
+            "homepage": null,
             "id": 14590125,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:27:43Z",
+            "open_issues": 35,
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3869
+            "stars": 3869,
+            "topics": [
+              "3d-game-engine",
+              "data-oriented-design",
+              "editor",
+              "entity-component-system",
+              "game-development",
+              "game-engine",
+              "linux",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -416,12 +726,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-Platform C++ 2D/3D game engine",
+            "homepage": null,
             "id": 164933352,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-23T16:16:51Z",
+            "open_issues": 3,
             "owner": "jmorton06",
             "repo": "Lumos",
-            "stars": 1596
+            "stars": 1596,
+            "topics": [
+              "cpp17",
+              "ecs",
+              "game-engine",
+              "imgui",
+              "linux",
+              "macos",
+              "opengl",
+              "premake",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -432,12 +758,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.",
+            "homepage": null,
             "id": 150962669,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-08T22:19:36Z",
+            "open_issues": 2,
             "owner": "inanevin",
             "repo": "LinaEngine",
-            "stars": 901
+            "stars": 901,
+            "topics": [
+              "3d-graphics",
+              "3d-graphics-engine",
+              "game-development",
+              "game-engine",
+              "game-engine-development",
+              "gamedev",
+              "graphics",
+              "gui",
+              "lina-engine",
+              "ui",
+              "vulkan-game-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -448,12 +791,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D FPS game engine with full dynamic lighting and shadows",
+            "homepage": "http://www.limonengine.com",
             "id": 51472606,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-23T08:34:21Z",
+            "open_issues": 48,
             "owner": "enginmanap",
             "repo": "limonEngine",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "3d-graphics",
+              "animation-3d",
+              "cross-platform",
+              "game-development",
+              "game-engine",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "openal",
+              "opengl",
+              "physics"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -464,12 +825,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenGL C++ Graphics Engine",
+            "homepage": null,
             "id": 279640775,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:42:09Z",
+            "open_issues": 9,
             "owner": "hotstreams",
             "repo": "limitless-engine",
-            "stars": 636
+            "stars": 636,
+            "topics": [
+              "3d-graphics",
+              "bloom",
+              "decals",
+              "deferred-rendering",
+              "effects",
+              "gamedev",
+              "gltf",
+              "gltf-loader",
+              "graphics-engine",
+              "lighting",
+              "material",
+              "models",
+              "modern-opengl",
+              "normal-mapping",
+              "opengl",
+              "pbr",
+              "shadows",
+              "skeletal-animation",
+              "ssao",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -486,12 +873,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach",
+            "homepage": "https://machengine.org",
             "id": 382912430,
             "language": "Zig",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T01:41:18Z",
+            "open_issues": 167,
             "owner": "hexops",
             "repo": "mach",
-            "stars": 4832
+            "stars": 4832,
+            "topics": [
+              "composable",
+              "cross-platform",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "graphics",
+              "gui",
+              "open-source",
+              "zig",
+              "ziglang"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -502,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D framework for web, desktop and mobile devices.",
+            "homepage": "http://minko.io",
             "id": 1516778,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-04T03:45:39Z",
+            "open_issues": 24,
             "owner": "aerys",
             "repo": "minko",
-            "stars": 907
+            "stars": 907,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -524,12 +932,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform 2D game engine",
+            "homepage": "https://ncine.github.io/",
             "id": 189073851,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:51:00Z",
+            "open_issues": 1,
             "owner": "nCine",
             "repo": "nCine",
-            "stars": 1327
+            "stars": 1327,
+            "topics": [
+              "android",
+              "cpp11",
+              "cross-platform",
+              "emscripten",
+              "game-development",
+              "game-engine",
+              "game-engine-2d",
+              "gamedev",
+              "imgui",
+              "linux",
+              "lua",
+              "macos",
+              "mingw",
+              "ncine",
+              "opengl",
+              "real-time",
+              "renderdoc",
+              "rendering",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -540,12 +973,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nebula is an open-source and free-to-use modern C++ game engine.",
+            "homepage": "http://nebulatrifid.org/",
             "id": 164856783,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:07:43Z",
+            "open_issues": 34,
             "owner": "gscept",
             "repo": "nebula",
-            "stars": 1093
+            "stars": 1093,
+            "topics": [
+              "classless-api",
+              "data-oriented-architecture",
+              "game-engine",
+              "game-engine-3d",
+              "linux",
+              "multithreading",
+              "performance",
+              "vulkan",
+              "vulkan-game-engine",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -556,12 +1005,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuake is a modern engine inspired by the Quake engine that integrates with Trenchbroom",
+            "homepage": "https://nuake.antopilo.dev",
             "id": 367206944,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-09-03T03:04:03Z",
+            "open_issues": 8,
             "owner": "antopilo",
             "repo": "Nuake",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "3d",
+              "game-engine",
+              "gameengine",
+              "quake",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -572,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nau Engine is a free open-source game engine that's designed to be versatile and accessible to everyone. ",
+            "homepage": "https://nauengine.org",
             "id": 893512863,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T10:29:11Z",
+            "open_issues": 9,
             "owner": "NauEngine",
             "repo": "NauEnginePublic",
-            "stars": 394
+            "stars": 394,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -594,12 +1059,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D game engine with lua scripting",
+            "homepage": "https://overloadengine.org/",
             "id": 191771083,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:05:57Z",
+            "open_issues": 91,
             "owner": "Overload-Technologies",
             "repo": "Overload",
-            "stars": 2469
+            "stars": 2469,
+            "topics": [
+              "3d-engine",
+              "3d-graphics",
+              "c-plus-plus",
+              "cpp",
+              "game-editor",
+              "game-engine",
+              "gamedev",
+              "graphics",
+              "graphics-engine",
+              "imgui",
+              "linux",
+              "lua",
+              "opengl",
+              "physically-based-rendering",
+              "rendering-engine",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -616,12 +1103,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delightfully simple 2D game engine.",
+            "homepage": null,
             "id": 767346331,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:38:12Z",
+            "open_issues": 1,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -638,12 +1134,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Game Engine/Framework in C++17 with WYSIWYG Editor. Experimental C# bindings.",
+            "homepage": "https://rebelfork.io",
             "id": 54325713,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:15:25Z",
+            "open_issues": 103,
             "owner": "rbfx",
             "repo": "rbfx",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "3d-engine",
+              "3d-graphics",
+              "cpp17",
+              "csharp",
+              "desktop",
+              "directx-11",
+              "game-engine",
+              "hot-reload",
+              "imgui",
+              "mobile",
+              "opengl",
+              "urho3d",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -654,12 +1169,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast C++23 3D game engine for modern devices, with wide platform support",
+            "homepage": null,
             "id": 285412527,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-29T01:17:58Z",
+            "open_issues": 2,
             "owner": "RavEngine",
             "repo": "RavEngine",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "3d-engine",
+              "animation-3d",
+              "cmake",
+              "cpp23",
+              "directx",
+              "ecs",
+              "game-development",
+              "game-engine",
+              "gpu-driven-rendering",
+              "graphics-engine",
+              "metal",
+              "multiplayer",
+              "multithreading",
+              "pbr",
+              "shaders",
+              "spatial-audio",
+              "svg",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -676,12 +1215,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skylicht Engine is C++ Game Engine based on Irrlicht 3D. And my goal is to create a high-performance and lightweight Game Framework that can seamlessly function on both web and mobile platforms. This framework will be available to everyone for free.",
+            "homepage": null,
             "id": 220988542,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:18:20Z",
+            "open_issues": 26,
             "owner": "skylicht-lab",
             "repo": "skylicht-engine",
-            "stars": 769
+            "stars": 769,
+            "topics": [
+              "directx11",
+              "game-development",
+              "game-engine",
+              "google-angle",
+              "irrlicht-engine",
+              "lightmapper",
+              "opengles3",
+              "particle",
+              "skylicht-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -698,12 +1252,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Procedural Game Engine Using OpenGL ",
+            "homepage": null,
             "id": 128689753,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:02:15Z",
+            "open_issues": 0,
             "owner": "fegennari",
             "repo": "3DWorld",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "artificial-intelligence",
+              "building-generator",
+              "city-generator",
+              "computer-graphics",
+              "game-engine",
+              "game-engine-3d",
+              "physics-simulation",
+              "procedural-generation",
+              "procedural-terrain",
+              "realtime",
+              "terrain-generator",
+              "universe-generator"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -714,12 +1286,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thunder Engine – Cross-platform 2D and 3D game engine with modular architecture",
+            "homepage": "https://thunderengine.org/",
             "id": 117341391,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T17:41:57Z",
+            "open_issues": 30,
             "owner": "thunder-engine",
             "repo": "thunder",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "cross-platform",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "metal",
+              "open-source",
+              "opengl",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -730,12 +1316,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traktor Game Engine",
+            "homepage": null,
             "id": 28911161,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T14:08:10Z",
+            "open_issues": 8,
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "ai",
+              "audio",
+              "editor",
+              "game-engine",
+              "global-illumination",
+              "graphics",
+              "lua-script",
+              "mcp-server",
+              "pathfinding",
+              "pbr",
+              "physics-simulation",
+              "raytracing",
+              "rendering",
+              "restir-gi",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -746,12 +1353,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental 3D / game engine",
+            "homepage": null,
             "id": 32465423,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T17:48:17Z",
+            "open_issues": 1,
             "owner": "cadaver",
             "repo": "turso3d",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "3d",
+              "cplusplus",
+              "emscripten",
+              "game-engine",
+              "opengl"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -768,12 +1386,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D renderer written in C utilizing Vulkan",
+            "homepage": null,
             "id": 286360560,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-04-26T18:27:59Z",
+            "open_issues": 4,
             "owner": "PaoloMazzon",
             "repo": "Vulkan2D",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "2d-renderer",
+              "c",
+              "gamedev",
+              "graphics",
+              "graphics-programming",
+              "rendering",
+              "sdl2",
+              "shaders",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -784,12 +1417,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free cross-platform game engine focusing on fast prototyping and having fun with Luau scripting",
+            "homepage": "https://vectarineengine.com",
             "id": 1106692602,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T22:41:27Z",
+            "open_issues": 5,
             "owner": "vanyle",
             "repo": "vectarine",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "game-engine",
+              "gamedev",
+              "lua",
+              "luau",
+              "luau-lang",
+              "multi-platform",
+              "opengl",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -806,12 +1453,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphic Engine & Game Engine lists",
+            "homepage": null,
             "id": 104003936,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-09T07:46:16Z",
+            "open_issues": 3,
             "owner": "Gforcex",
             "repo": "OpenGraphic",
-            "stars": 2276
+            "stars": 2276,
+            "topics": [
+              "computer-graphics",
+              "graphics",
+              "rendering",
+              "shader",
+              "unity-3d",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         },
@@ -822,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Engines with Source: Learning from the best",
+            "homepage": null,
             "id": 327396855,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-23T21:18:43Z",
+            "open_issues": 2,
             "owner": "redorav",
             "repo": "public_source_engines",
-            "stars": 769
+            "stars": 769,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
         }
@@ -836,15 +1500,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:51:51.470Z",
+    "last_updated": "2026-08-29T04:56:29.699Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The list of awesome game engines for everything😎",
+      "homepage": null,
       "id": 692994172,
       "language": "Markdown",
+      "license": "MIT",
       "last_commit": "2026-08-21T07:03:48Z",
+      "open_issues": 2,
       "owner": "ChessMax",
       "repo": "awesome-game-engines",
-      "stars": 132
+      "stars": 132,
+      "topics": [
+        "awesome-list",
+        "game",
+        "game-development",
+        "games"
+      ]
     },
     "original_repository_sha": "184b329f99d5c67da95c06720739086607fb7cf4",
     "enhanced_repository": "enhansome/enhansome-game-engines",
