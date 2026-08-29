@@ -12,11 +12,12 @@
             "archived": false,
             "id": 23955091,
             "language": "C++",
-            "last_commit": "2026-08-27T18:27:56Z",
+            "last_commit": "2026-08-28T09:16:33Z",
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "A (3):"
@@ -36,8 +37,9 @@
             "last_commit": "2026-08-14T00:08:27Z",
             "owner": "scallyw4g",
             "repo": "bonsai",
-            "stars": 1252
-          }
+            "stars": 1254
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "B (3):"
@@ -54,11 +56,12 @@
             "archived": false,
             "id": 5321315,
             "language": "C++",
-            "last_commit": "2026-08-27T23:29:29Z",
+            "last_commit": "2026-08-28T23:06:31Z",
             "owner": "crownengine",
             "repo": "crown",
             "stars": 2438
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-28T02:16:13Z",
+            "last_commit": "2026-08-28T23:15:59Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1860
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 30114388,
             "language": "Pascal",
-            "last_commit": "2026-08-24T03:28:43Z",
+            "last_commit": "2026-08-28T11:33:09Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
             "stars": 1237
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "RandyGaul",
             "repo": "cute_framework",
             "stars": 833
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "anjo76",
             "repo": "angelscript",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "C (9):"
@@ -139,7 +146,8 @@
             "owner": "GaijinEntertainment",
             "repo": "DagorEngine",
             "stars": 2954
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "sergcpp",
             "repo": "DummyEngine",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "gecko0307",
             "repo": "dagon",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -183,8 +193,9 @@
             "last_commit": "2024-08-11T20:28:55Z",
             "owner": "zet23t",
             "repo": "dusk-engine",
-            "stars": 8
-          }
+            "stars": 9
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "D (7):"
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 10721619,
             "language": "Go",
-            "last_commit": "2026-08-27T19:40:45Z",
+            "last_commit": "2026-08-28T19:58:45Z",
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13426
-          }
+            "stars": 13430
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -216,11 +228,12 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-27T09:01:46Z",
+            "last_commit": "2026-08-28T21:28:34Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2001
-          }
+            "stars": 2004
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "E (3):"
@@ -237,11 +250,12 @@
             "archived": false,
             "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:33:03Z",
+            "last_commit": "2026-08-28T19:51:48Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
             "stars": 9529
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "F (5):"
@@ -258,11 +272,12 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-27T17:33:08Z",
+            "last_commit": "2026-08-28T22:21:06Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116248
-          }
+            "stars": 116307
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "G (3):"
@@ -282,8 +297,9 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13088
-          }
+            "stars": 13087
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -298,7 +314,8 @@
             "owner": "horde3d",
             "repo": "Horde3D",
             "stars": 1584
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -313,7 +330,8 @@
             "owner": "HaxePunk",
             "repo": "HaxePunk",
             "stars": 499
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -328,7 +346,8 @@
             "owner": "Hork-Engine",
             "repo": "Hork-Source",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "H (7):"
@@ -349,7 +368,8 @@
             "owner": "Mormert",
             "repo": "jle",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -364,7 +384,8 @@
             "owner": "jhasse",
             "repo": "jngl",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "J (3):"
@@ -381,11 +402,12 @@
             "archived": false,
             "id": 14590125,
             "language": "C++",
-            "last_commit": "2026-08-26T22:10:43Z",
+            "last_commit": "2026-08-28T21:27:43Z",
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3870
-          }
+            "stars": 3869
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -399,8 +421,9 @@
             "last_commit": "2026-06-23T16:16:51Z",
             "owner": "jmorton06",
             "repo": "Lumos",
-            "stars": 1595
-          }
+            "stars": 1596
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -415,7 +438,8 @@
             "owner": "inanevin",
             "repo": "LinaEngine",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -429,8 +453,9 @@
             "last_commit": "2026-08-23T08:34:21Z",
             "owner": "enginmanap",
             "repo": "limonEngine",
-            "stars": 705
-          }
+            "stars": 706
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -441,11 +466,12 @@
             "archived": false,
             "id": 279640775,
             "language": "C++",
-            "last_commit": "2026-08-21T13:18:31Z",
+            "last_commit": "2026-08-28T17:42:09Z",
             "owner": "hotstreams",
             "repo": "limitless-engine",
-            "stars": 635
-          }
+            "stars": 636
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "L (7):"
@@ -466,7 +492,8 @@
             "owner": "hexops",
             "repo": "mach",
             "stars": 4832
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -481,7 +508,8 @@
             "owner": "aerys",
             "repo": "minko",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "M (4):"
@@ -502,7 +530,8 @@
             "owner": "nCine",
             "repo": "nCine",
             "stars": 1327
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -516,8 +545,9 @@
             "last_commit": "2026-08-25T10:07:43Z",
             "owner": "gscept",
             "repo": "nebula",
-            "stars": 1092
-          }
+            "stars": 1093
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -532,7 +562,8 @@
             "owner": "antopilo",
             "repo": "Nuake",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -547,7 +578,8 @@
             "owner": "NauEngine",
             "repo": "NauEnginePublic",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "N (4):"
@@ -567,8 +599,9 @@
             "last_commit": "2026-08-25T14:05:57Z",
             "owner": "Overload-Technologies",
             "repo": "Overload",
-            "stars": 2468
-          }
+            "stars": 2469
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "O (5):"
@@ -589,7 +622,8 @@
             "owner": "Kapendev",
             "repo": "parin",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "P (2):"
@@ -610,7 +644,8 @@
             "owner": "rbfx",
             "repo": "rbfx",
             "stars": 1033
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -625,7 +660,8 @@
             "owner": "RavEngine",
             "repo": "RavEngine",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "R (4):"
@@ -642,11 +678,12 @@
             "archived": false,
             "id": 220988542,
             "language": "C++",
-            "last_commit": "2026-08-25T10:56:15Z",
+            "last_commit": "2026-08-28T11:18:20Z",
             "owner": "skylicht-lab",
             "repo": "skylicht-engine",
             "stars": 769
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "S (6):"
@@ -663,11 +700,12 @@
             "archived": false,
             "id": 128689753,
             "language": "C++",
-            "last_commit": "2026-08-27T06:53:07Z",
+            "last_commit": "2026-08-28T07:02:15Z",
             "owner": "fegennari",
             "repo": "3DWorld",
-            "stars": 1414
-          }
+            "stars": 1416
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -682,7 +720,8 @@
             "owner": "thunder-engine",
             "repo": "thunder",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -693,11 +732,12 @@
             "archived": false,
             "id": 28911161,
             "language": "C++",
-            "last_commit": "2026-08-27T13:38:57Z",
+            "last_commit": "2026-08-28T14:08:10Z",
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 562
-          }
+            "stars": 563
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -712,7 +752,8 @@
             "owner": "cadaver",
             "repo": "turso3d",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "T (5):"
@@ -733,7 +774,8 @@
             "owner": "PaoloMazzon",
             "repo": "Vulkan2D",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -748,7 +790,8 @@
             "owner": "vanyle",
             "repo": "vectarine",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "V (3):"
@@ -768,8 +811,9 @@
             "last_commit": "2026-07-09T07:46:16Z",
             "owner": "Gforcex",
             "repo": "OpenGraphic",
-            "stars": 2274
-          }
+            "stars": 2276
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         },
         {
           "node_type": "item",
@@ -783,15 +827,16 @@
             "last_commit": "2026-08-23T21:18:43Z",
             "owner": "redorav",
             "repo": "public_source_engines",
-            "stars": 766
-          }
+            "stars": 769
+          },
+          "first_seen": "2026-08-29T01:51:51.470Z"
         }
       ],
       "title": "See also:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:17:18.878Z",
+    "last_updated": "2026-08-29T01:51:51.470Z",
     "original_repository_info": {
       "archived": false,
       "id": 692994172,
