@@ -7,21 +7,21 @@ you. Here you can find interesting game engines and frameworks that are not well
 your own game engine. Also, it's the place to look for a new ideas and inspiration. Feel free to
 make a contribution.
 
-[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-game-engines/)](https://GitHub.com/ChessMax/awesome-game-engines/network/) ⭐ 134 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
-[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/stargazers/) ⭐ 134 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
-[![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/graphs/contributors/) ⭐ 134 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
+[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-game-engines/)](https://GitHub.com/ChessMax/awesome-game-engines/network/) ⭐ 135 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
+[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/stargazers/) ⭐ 135 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
+[![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-game-engines)](https://GitHub.com/ChessMax/awesome-game-engines/graphs/contributors/) ⭐ 135 | 🐛 2 | 🌐 Markdown | 📅 2026-08-21
 
 ## Contents
 
 # A (3):
 
-* [AnKi 3D Engine](https://github.com/godlikepanos/anki-3d-engine) ⭐ 1,610 | 🐛 12 | 🌐 C++ | 📅 2026-08-28 - Vulkan backend, modern renderer, scripting, physics and more
+* [AnKi 3D Engine](https://github.com/godlikepanos/anki-3d-engine) ⭐ 1,611 | 🐛 12 | 🌐 C++ | 📅 2026-08-31 - Vulkan backend, modern renderer, scripting, physics and more
 * [Allegro](https://liballeg.org/) - Allegro is a cross-platform library mainly aimed at video game and multimedia programming. It handles common, low-level tasks such as creating windows, accepting user input, loading data, drawing images, playing sounds, etc. and generally abstracting away the underlying platform. However, Allegro is not a game engine: you are free to design and structure your program as you like.
 * [Armory3d](https://armory3d.org/) - Armory3D is an open-source 3D game engine focused on portability, minimal footprint and performance. The renderer is fully scriptable with deferred and forward paths supported out of the box. Armory3D as a Blender add-on provides a full Blender integration, turning it into a complete game development tool and a unified workflow from start to finish.
 
 # B (3):
 
-* [Bonsai](https://github.com/scallyw4g/bonsai) ⭐ 1,255 | 🐛 27 | 🌐 C | 📅 2026-08-14 - Bonsai is a 3D voxel-based engine built with the intention of writing both fast-paced arcade games and tile/turn-based RPGs.
+* [Bonsai](https://github.com/scallyw4g/bonsai) ⭐ 1,255 | 🐛 28 | 🌐 C | 📅 2026-08-14 - Bonsai is a 3D voxel-based engine built with the intention of writing both fast-paced arcade games and tile/turn-based RPGs.
 * [BeetPx](https://beetpx.dev/) - A TypeScript framework for pixel art browser games. Heavily inspired by PICO-8.
 * [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust Free and Open Source Forever! All engine and game logic uses Bevy ECS, a custom Entity Component System
   * Fast: Massively Parallel and Cache-Friendly. The fastest ECS according to some benchmarks
@@ -30,11 +30,11 @@ make a contribution.
 
 # C (9):
 
-* [Crown](https://github.com/crownengine/crown) ⭐ 2,439 | 🐛 46 | 🌐 C++ | 📅 2026-08-30 - Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
-* [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,860 | 🐛 273 | 🌐 Java | 📅 2026-08-30 - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
-* [Castle-engine](https://github.com/castle-engine/castle-engine) ⭐ 1,238 | 🐛 87 | 🌐 Pascal | 📅 2026-08-29 - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
+* [Crown](https://github.com/crownengine/crown) ⭐ 2,441 | 🐛 46 | 🌐 C++ | 📅 2026-08-31 - Crown is a general purpose and data-driven 3D and 2D game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
+* [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,860 | 🐛 273 | 🌐 Java | 📅 2026-08-31 - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
+* [Castle-engine](https://github.com/castle-engine/castle-engine) ⭐ 1,239 | 🐛 87 | 🌐 Pascal | 📅 2026-08-31 - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal.
 * [Cute framework](https://github.com/RandyGaul/cute_framework) ⭐ 833 | 🐛 7 | 🌐 C | 📅 2026-08-27 - Cute Framework (CF) is the cutest framework available for making 2D games in C++. It provides a portable foundational layer for building 2D games in C/C++ without baggage, gnarly dependencies, or cryptic APIs. CF runs almost anywhere, including Windows, MacOS, iOS, Android, Linux, Browsers, and more!
-* [Comet Engine](https://www.cometengine.org/) - 2D cross-platform (windows, linux, android and web) game engine with all 2D basics and much more as lights, shadows, navigation... with [AngelScript](https://github.com/anjo76/angelscript) ⭐ 269 | 🐛 28 | 🌐 C++ | 📅 2026-08-25 (C#-like) for the scripting system.
+* [Comet Engine](https://www.cometengine.org/) - 2D cross-platform (windows, linux, android and web) game engine with all 2D basics and much more as lights, shadows, navigation... with [AngelScript](https://github.com/anjo76/angelscript) ⭐ 270 | 🐛 28 | 🌐 C++ | 📅 2026-08-25 (C#-like) for the scripting system.
 * [C4 engine ](https://c4engine.com/) - The C4 Engine has been in continuous development by Eric Lengyel since 1999. He leads a small team that is making a first-person shooter called The 31st.
 * [Cocos](https://www.cocos.com/en) - Efficient, light-weight, cross-platform, all in one 3D development engine. Full coverage of various platforms,friendly and professional tools to create a virtual world.
 * [Construct 3](https://www.construct.net/) - Construct is an HTML5-based 2D video game engine developed by Scirra Ltd. It is aimed primarily at non-programmers, allowing quick creation of games through visual programming.
@@ -42,23 +42,23 @@ make a contribution.
 
 # D (7):
 
-* [Dagor](https://github.com/GaijinEntertainment/DagorEngine) ⭐ 2,955 | 🐛 74 | 🌐 C++ | 📅 2026-08-16 - Formerly closed source 3D game engine made and mostly used by Gajin Entertainment.
-* [DummyEngine](https://github.com/sergcpp/DummyEngine) ⭐ 418 | 🐛 1 | 🌐 C++ | 📅 2026-08-17 - Сross-platform Vulkan/OpenGL 3D engine for personal experimentation
-* [Dagon](https://github.com/gecko0307/dagon) ⭐ 407 | 🐛 7 | 🌐 D | 📅 2026-08-25 - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
-* [Dusk](https://github.com/zet23t/dusk-engine) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2024-08-11 - Dusk Engine aims to be a simple 3D engine for games based on raylib using plain C.
+* [Dagor](https://github.com/GaijinEntertainment/DagorEngine) ⭐ 2,957 | 🐛 74 | 🌐 C++ | 📅 2026-08-16 - Formerly closed source 3D game engine made and mostly used by Gajin Entertainment.
+* [DummyEngine](https://github.com/sergcpp/DummyEngine) ⭐ 419 | 🐛 1 | 🌐 C++ | 📅 2026-08-17 - Сross-platform Vulkan/OpenGL 3D engine for personal experimentation
+* [Dagon](https://github.com/gecko0307/dagon) ⭐ 408 | 🐛 7 | 🌐 D | 📅 2026-08-25 - The goal of this project is to create a modern, easy to use, extensible 3D game engine for D language. Dagon is based on OpenGL 4.0 core profile. It currently works on Windows and Linux.
+* [Dusk](https://github.com/zet23t/dusk-engine) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2024-08-11 - Dusk Engine aims to be a simple 3D engine for games based on raylib using plain C.
 * [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 * [DOME](https://domeengine.com/) - DOME is a framework for making 2D games using the Wren programming language which can be played across platforms.
 * [Drag\[en\]gine](https://dragondreams.ch/index.php/dragengine/) - The Drag\[en]gine Game Engine is a free software game engine focusing on developing games faster, more modular and stable with true -1 day portability support.
 
 # E (3):
 
-* [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,434 | 🐛 276 | 🌐 Go | 📅 2026-08-30 - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
-* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 2,006 | 🐛 33 | 🌐 C++ | 📅 2026-08-30 - ezEngine is a free, open source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. EZ utilizes a plugin system to integrate features such as FMOD or Jolt Physics. This makes it possible to only include those features that you need, or to replace systems with a custom solution that works better for your requirements. Similarly, the EZ code base can be built in multiple tiers, where you either get the entire feature set, with a fully functional editor, asset management and renderer, or you can strip it down to just the base libraries and core engine functionality. This can be extremely useful if you need to build a lot of custom technology, but require a high-performance, reliable foundation. EZ has a strong emphasis on providing robust, easy to use and well-tested base functionality. It is successfully being used in such a capacity in commercial products.
+* [Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,442 | 🐛 276 | 🌐 Go | 📅 2026-08-31 - Ebitengine (formerly known as Ebiten) is an open source game engine for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms.
+* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 2,008 | 🐛 34 | 🌐 C++ | 📅 2026-08-31 - ezEngine is a free, open source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. EZ utilizes a plugin system to integrate features such as FMOD or Jolt Physics. This makes it possible to only include those features that you need, or to replace systems with a custom solution that works better for your requirements. Similarly, the EZ code base can be built in multiple tiers, where you either get the entire feature set, with a fully functional editor, asset management and renderer, or you can strip it down to just the base libraries and core engine functionality. This can be extremely useful if you need to build a lot of custom technology, but require a high-performance, reliable foundation. EZ has a strong emphasis on providing robust, easy to use and well-tested base functionality. It is successfully being used in such a capacity in commercial products.
 * [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform. Just released version 2023.9. This version represents a fairly significant upgrade as it adds a Metal renderer and iOS as a target platform. The Evergine game engine is free to use, with commercial support and source code licenses available.
 
 # F (5):
 
-* [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,531 | 🐛 59 | 🌐 Rust | 📅 2026-08-30 - A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.
+* [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,532 | 🐛 59 | 🌐 Rust | 📅 2026-08-30 - A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. Formerly known as rg3d.
 * [FlatRedBall](https://flatredball.com/) - A game development platform, built in C#, that's perfect for indies or big studios! The FlatRedBall game engine is cross-platform, focused on 2D game development and proven across multiple shipped game projects. It’s a perfect choice for small indies or large teams. Our tools save time. Glue, a core FlatRedBall, tool generates boilerplate so teams can focus on game logic. Plugins to load popular formats like Tiled, Spriter and the Gum UI system make integration easy. FlatRedBall enables native performance with the benefit of code reuse using Xamarin. Our performance tools find problems like memory allocation and render breaks for smooth mobile performance.
 * [Flax](https://flaxengine.com/) - Flax Engine is a high quality modern 3D game engine written in C++ and C#. From stunning graphics to powerful scripts - Flax can give everything for your games. Designed for fast workflow with many ready to use features waiting for you right now.
 * [Flowlab.io](https://flowlab.io/) - Flowlab is a browser-based 2D game engine with a visual logic builder, designed to make it easy to get started making games.
@@ -66,16 +66,16 @@ make a contribution.
 
 # G (3):
 
-* [Godot](https://github.com/godotengine/godot) ⭐ 116,393 | 🐛 18,821 | 🌐 C++ | 📅 2026-08-29 - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
+* [Godot](https://github.com/godotengine/godot) ⭐ 116,449 | 🐛 18,817 | 🌐 C++ | 📅 2026-08-31 - Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
 * [Game Maker](https://gamemaker.io/en) - GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the visual programming features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.
 * [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone. GDevelop is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 
 # H (7):
 
 * [Hazel Engine](https://github.com/TheCherno/Hazel) ⭐ 13,090 | 🐛 135 | 🌐 C++ | 📅 2024-04-20 - Hazel is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented, however (almost) everything inside this repository is being created within YouTube videos.
-* [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,585 | 🐛 22 | 🌐 C++ | 📅 2026-07-30 - Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
+* [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,586 | 🐛 22 | 🌐 C++ | 📅 2026-07-30 - Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.
 * [HaxePunk](https://github.com/HaxePunk/HaxePunk) ⭐ 499 | 🐛 22 | 🌐 Haxe | 📅 2022-08-29 - Cross-platform desktop, mobile, and WebGL game engine, based on FlashPunk.
-* [Hork-Source](https://github.com/Hork-Engine/Hork-Source) ⭐ 219 | 🐛 13 | 🌐 C++ | 📅 2025-11-12 - Game engine developed for Quake-style 3D games, but it is possible to create games of other genres.
+* [Hork-Source](https://github.com/Hork-Engine/Hork-Source) ⭐ 220 | 🐛 13 | 🌐 C++ | 📅 2025-11-12 - Game engine developed for Quake-style 3D games, but it is possible to create games of other genres.
 * [HaxeFlixel](https://haxeflixel.com/) - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 * [Heaps.io](https://heaps.io/index.html) - Cross platform graphics for high performance game. Heaps.io is a mature cross-platform graphics engine designed for high performance games.It is designed to leverage modern GPUs that are commonly available on both desktop and mobile devices.
 * [HypeHype](https://hypehype.com) - HypeHype is a new revolutionary way to create, remix and play games on your phone. Our mission is to empower anyone to become a game maker through simple, fun and free tools on mobile devices.
@@ -92,31 +92,31 @@ make a contribution.
 
 # L (7):
 
-* [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,870 | 🐛 35 | 🌐 C++ | 📅 2026-08-30 - 3D C++ Game Engine - yet another open source game engine.
-* [Lumos Engine](https://github.com/jmorton06/Lumos) ⭐ 1,596 | 🐛 3 | 🌐 C++ | 📅 2026-06-23 - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
-* [Lina Engine](https://github.com/inanevin/LinaEngine) ⭐ 901 | 🐛 2 | 🌐 C++ | 📅 2025-10-08 - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
-* [Limon](https://github.com/enginmanap/limonEngine) ⭐ 707 | 🐛 48 | 🌐 C++ | 📅 2026-08-30 - Limon is a multi platform 3D game engine mainly focusing on first person games. Focus of its development is ease of use and ease of study.
-* [Limitless Engine](https://github.com/hotstreams/limitless-engine) ⭐ 636 | 🐛 9 | 🌐 C++ | 📅 2026-08-29 - Limitless Engine is a 3D graphics engine, focused on high-performance, low-overhead rendering with modern OpenGL & C++17.
+* [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,873 | 🐛 35 | 🌐 C++ | 📅 2026-08-31 - 3D C++ Game Engine - yet another open source game engine.
+* [Lumos Engine](https://github.com/jmorton06/Lumos) ⭐ 1,596 | 🐛 3 | 🌐 C++ | 📅 2026-08-31 - Cross-platform 2D and 3D Game Engine written in C++ that supports both OpenGL and Vulkan.
+* [Lina Engine](https://github.com/inanevin/LinaEngine) ⭐ 902 | 🐛 2 | 🌐 C++ | 📅 2025-10-08 - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+* [Limon](https://github.com/enginmanap/limonEngine) ⭐ 708 | 🐛 48 | 🌐 C++ | 📅 2026-08-30 - Limon is a multi platform 3D game engine mainly focusing on first person games. Focus of its development is ease of use and ease of study.
+* [Limitless Engine](https://github.com/hotstreams/limitless-engine) ⭐ 638 | 🐛 9 | 🌐 C++ | 📅 2026-08-29 - Limitless Engine is a 3D graphics engine, focused on high-performance, low-overhead rendering with modern OpenGL & C++17.
 * [LibGDX](https://libgdx.com/) - Cross-platform Game Development Framework. libGDX is a cross-platform Java game development framework based on OpenGL (ES), designed for Windows, Linux, macOS, Android, web browsers, and iOS. It provides a robust and well-established environment for rapid prototyping and iterative development. Unlike other frameworks, libGDX does not impose a specific design or coding style, allowing you the freedom to create games according to your preferences.
 * [LÖVE](https://love2d.org/) - Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
 
 # M (4):
 
-* [Mach Engine](https://github.com/hexops/mach) ⭐ 4,831 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
+* [Mach Engine](https://github.com/hexops/mach) ⭐ 4,832 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 - Zig game engine & graphics toolkit for building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps.
 * [Minko](https://github.com/aerys/minko) ⭐ 907 | 🐛 24 | 🌐 C++ | 📅 2026-07-04 - 3D framework for web, desktop and mobile devices.
 * [Monogame](https://www.monogame.net/) - MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
 * [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is beginner-friendly, with a programming language literally designed to be easy to learn.  Start with simple text-based programs or simple pixel graphics, and work up to sophisticated multi-layer games using sprites, tiles, networking via REST calls, and more.  Mini Micro users range from kids under 12 to professional software engineers hacking around in their spare time. It's easy to learn, but deep enough for years.
 
 # N (4):
 
-* [nCine](https://github.com/nCine/nCine) ⭐ 1,327 | 🐛 1 | 🌐 C++ | 📅 2026-08-24 - nCine is a cross-platform 2D game engine that runs on PC (Linux, Windows, macOS), Android, Raspberry Pi, and the web (Emscripten). The project has been in active development since June 2011.
-* [Nebula](https://github.com/gscept/nebula) ⭐ 1,094 | 🐛 34 | 🌐 C++ | 📅 2026-08-25 - Nebula is an open-source and free-to-use modern C++ game engine.
-* [Nuake](https://github.com/antopilo/Nuake) ⭐ 494 | 🐛 8 | 🌐 C++ | 📅 2025-09-03 - Nuake is a boutique game engine inspired by Quake. It focuses on fast level design iteration time that integrates with quake level editing software.
-* [Nau](https://github.com/NauEngine/NauEnginePublic) ⭐ 394 | 🐛 9 | 🌐 C++ | 📅 2026-07-03 - Nau Engine is a free open-source game engine that's designed to be versatile and accessible to everyone.
+* [nCine](https://github.com/nCine/nCine) ⭐ 1,328 | 🐛 1 | 🌐 C++ | 📅 2026-08-24 - nCine is a cross-platform 2D game engine that runs on PC (Linux, Windows, macOS), Android, Raspberry Pi, and the web (Emscripten). The project has been in active development since June 2011.
+* [Nebula](https://github.com/gscept/nebula) ⭐ 1,094 | 🐛 34 | 🌐 C++ | 📅 2026-08-31 - Nebula is an open-source and free-to-use modern C++ game engine.
+* [Nuake](https://github.com/antopilo/Nuake) ⭐ 495 | 🐛 8 | 🌐 C++ | 📅 2025-09-03 - Nuake is a boutique game engine inspired by Quake. It focuses on fast level design iteration time that integrates with quake level editing software.
+* [Nau](https://github.com/NauEngine/NauEnginePublic) ⭐ 395 | 🐛 9 | 🌐 C++ | 📅 2026-07-03 - Nau Engine is a free open-source game engine that's designed to be versatile and accessible to everyone.
 
 # O (5):
 
-* [Overload](https://github.com/Overload-Technologies/Overload) ⭐ 2,473 | 🐛 94 | 🌐 C++ | 📅 2026-08-25 - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
+* [Overload](https://github.com/Overload-Technologies/Overload) ⭐ 2,474 | 🐛 95 | 🌐 C++ | 📅 2026-08-25 - Overload is a free, open-source 3D game engine made in C++ with Lua as its scripting language.
 * [OGRE](https://www.ogre3d.org/) - Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
 * [Open 3D](https://o3de.org/) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * [OpenMW](https://openmw.org/) - OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind.
@@ -124,7 +124,7 @@ make a contribution.
 
 # P (2):
 
-* [Parin](https://github.com/Kapendev/parin) ⭐ 89 | 🐛 1 | 🌐 D | 📅 2026-08-17 - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
+* [Parin](https://github.com/Kapendev/parin) ⭐ 90 | 🐛 1 | 🌐 D | 📅 2026-08-17 - A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.
 * [Phaser](https://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 # Q (0):
@@ -138,7 +138,7 @@ make a contribution.
   * Supported for Windows, Linux, MacOS, Android, iOS, Web and XBox (via UWP);
   * Just a C++ library with a couple of tools;
   * Also, there are experimental, optional C# bindings.
-* [RavEngine](https://github.com/RavEngine/RavEngine) ⭐ 819 | 🐛 2 | 🌐 C++ | 📅 2025-07-29 - A fast C++20 3D game engine for modern devices, with wide platform support.
+* [RavEngine](https://github.com/RavEngine/RavEngine) ⭐ 820 | 🐛 2 | 🌐 C++ | 📅 2025-07-29 - A fast C++20 3D game engine for modern devices, with wide platform support.
 * [Raylib](https://www.raylib.com/) - raylib is a simple and easy-to-use library to enjoy videogames programming.
 * [Ren'Py](https://www.renpy.org/) - Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. These can be both visual novels and life simulation games. The easy to learn script language allows anyone to efficiently write large visual novels, while its Python scripting is enough for complex simulation games. Ren'Py is open source and free for commercial use.
 
@@ -155,15 +155,15 @@ make a contribution.
 
 # T (5):
 
-* [3DWorld](https://github.com/fegennari/3DWorld) ⭐ 1,416 | 🐛 0 | 🌐 C++ | 📅 2026-08-30 - 3DWorld is a cross-platform OpenGL-based 3D Game Engine created after the CS184 computer graphics course at UC Berkeley in 2001.
-* [Thunder](https://github.com/thunder-engine/thunder) ⭐ 670 | 🐛 30 | 🌐 C++ | 📅 2026-08-22 - Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
-* [Traktor](https://github.com/apistol78/traktor) ⭐ 565 | 🐛 8 | 🌐 C++ | 📅 2026-08-28 - Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across various platforms including Steam, PSN, iOS, and the Mac Store.
-* [Turso3d](https://github.com/cadaver/turso3d) ⭐ 329 | 🐛 1 | 🌐 C++ | 📅 2026-08-22 - Experimental 3D / game engine technology partially based on the Urho3D codebase. Expected to remain in an immature or "toy" state for the time being.
+* [3DWorld](https://github.com/fegennari/3DWorld) ⭐ 1,416 | 🐛 0 | 🌐 C++ | 📅 2026-08-31 - 3DWorld is a cross-platform OpenGL-based 3D Game Engine created after the CS184 computer graphics course at UC Berkeley in 2001.
+* [Thunder](https://github.com/thunder-engine/thunder) ⭐ 671 | 🐛 30 | 🌐 C++ | 📅 2026-08-22 - Thunder Engine is free for all purposes an open-source multi-functional lightweight game engine for creating 2D and 3D games. It provides a basic framework and extensible tools. So developers can focus on the creation, and the Thunder Engine will do the routine.
+* [Traktor](https://github.com/apistol78/traktor) ⭐ 566 | 🐛 8 | 🌐 C++ | 📅 2026-08-31 - Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across various platforms including Steam, PSN, iOS, and the Mac Store.
+* [Turso3d](https://github.com/cadaver/turso3d) ⭐ 330 | 🐛 1 | 🌐 C++ | 📅 2026-08-31 - Experimental 3D / game engine technology partially based on the Urho3D codebase. Expected to remain in an immature or "toy" state for the time being.
 * [Torque3D](https://torque3d.org/) - Torque was first developed by Dynamix (Tribes, Tribes 2) in early 2000s, later acquired by GarageGames and open-sourced under MIT license.
 
 # U (5):
 
-* [U3D](https://github.com/u3d-community/U3D) ⭐ 426 | 🐛 20 | 🌐 C++ | 📅 2026-08-26 - U3D is a open source, lightweight, cross-platform 2D and 3D game engine implemented in C++. Forked from Urho3D and greatly inspired by OGRE and Horde3D.
+* [U3D](https://github.com/u3d-community/U3D) ⭐ 428 | 🐛 20 | 🌐 C++ | 📅 2026-08-26 - U3D is a open source, lightweight, cross-platform 2D and 3D game engine implemented in C++. Forked from Urho3D and greatly inspired by OGRE and Horde3D.
 * [UPBGE](https://upbge.org) - UPBGE is an open-source, 3D game engine forked from the old Blender Game Engine and deployed with Blender itself. This unified workflow is its main strength, as you can make your game from start to finish without leaving Blender.
 * [Unigine](https://unigine.com/) - UNIGINE is a proprietary cross-platform game engine developed by UNIGINE Company used in simulators, virtual reality systems, serious games and visualization. It supports OpenGL 4, Vulkan and DirectX 12. UNIGINE Engine is a core technology for a lineup of benchmarks (CPU, GPU, power supply, cooling system), which are used by overclockers and technical media such as Tom's Hardware, Linus Tech Tips, PC Gamer, and JayzTwoCents. UNIGINE benchmarks are also included as part of the Phoronix Test Suite for benchmarking purposes on Linux and other systems.
 * [Unity](https://unity.com) - Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
@@ -171,8 +171,8 @@ make a contribution.
 
 # V (3):
 
-* [Vulkan2D](https://github.com/PaoloMazzon/Vulkan2D) ⭐ 241 | 🐛 4 | 🌐 C | 📅 2026-04-26 - Vulkan2D is a 2D renderer using Vulkan and SDL2 primarily for C games. VK2D aims for an extremely simple API, requiring no Vulkan experience to use.
-* [Vectarine](https://github.com/vanyle/vectarine/) ⭐ 133 | 🐛 5 | 🌐 Rust | 📅 2026-08-29 - Vectarine is a cross-platform game engine focusing on ultra fast prototyping and having fun. It uses Luau for scripting and can be extended with Rust.
+* [Vulkan2D](https://github.com/PaoloMazzon/Vulkan2D) ⭐ 242 | 🐛 4 | 🌐 C | 📅 2026-04-26 - Vulkan2D is a 2D renderer using Vulkan and SDL2 primarily for C games. VK2D aims for an extremely simple API, requiring no Vulkan experience to use.
+* [Vectarine](https://github.com/vanyle/vectarine/) ⭐ 134 | 🐛 6 | 🌐 Rust | 📅 2026-08-31 - Vectarine is a cross-platform game engine focusing on ultra fast prototyping and having fun. It uses Luau for scripting and can be extended with Rust.
 * [VNovels](https://vnovels.com) - VNovels is a browser-based visual novel maker with a graph and scene editor. It includes an AI assistant that drafts scenes and can generate backgrounds, characters, music and sound, so no coding is needed.
 
 # W (0):
@@ -188,10 +188,10 @@ make a contribution.
 # See also:
 
 * [Graphic Engine & Game Engine open source list](https://github.com/Gforcex/OpenGraphic) ⭐ 2,276 | 🐛 3 | 📅 2026-07-09
-* [Game Engines with Source](https://github.com/redorav/public_source_engines) ⭐ 770 | 🐛 2 | 📅 2026-08-23
+* [Game Engines with Source](https://github.com/redorav/public_source_engines) ⭐ 770 | 🐛 3 | 📅 2026-08-23
 * [Wikipedia - List of game engines](https://en.wikipedia.org/wiki/List_of_game_engines)
 * [Game Engine Tracker](https://gameenginetracker.com/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
