@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "3d",
               "android",
@@ -57,7 +57,7 @@
             "open_issues": 28,
             "owner": "scallyw4g",
             "repo": "bonsai",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "engine",
               "game",
@@ -129,8 +129,8 @@
             "id": 32973467,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:26:54Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-03T04:44:50Z",
+            "open_issues": 275,
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1871,
@@ -412,7 +412,7 @@
             "open_issues": 38,
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2027,
+            "stars": 2028,
             "topics": [
               "3d-game-engine",
               "3d-graphics",
@@ -480,10 +480,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-02T18:11:24Z",
-            "open_issues": 18882,
+            "open_issues": 18884,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 118072,
+            "stars": 118083,
             "topics": [
               "game-development",
               "game-engine",
@@ -701,7 +701,7 @@
             "id": 14590125,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:37:04Z",
+            "last_commit": "2026-10-02T23:05:34Z",
             "open_issues": 34,
             "owner": "nem0",
             "repo": "LumixEngine",
@@ -1257,7 +1257,7 @@
             "id": 128689753,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:13:01Z",
+            "last_commit": "2026-10-03T04:01:48Z",
             "open_issues": 0,
             "owner": "fegennari",
             "repo": "3DWorld",
@@ -1325,7 +1325,7 @@
             "open_issues": 8,
             "owner": "apistol78",
             "repo": "traktor",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "ai",
               "audio",
@@ -1449,7 +1449,7 @@
         {
           "node_type": "item",
           "title": "Graphic Engine & Game Engine open source list",
-          "description": null,
+          "description": "Gforcex/OpenGraphic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1477,7 +1477,7 @@
         {
           "node_type": "item",
           "title": "Game Engines with Source",
-          "description": null,
+          "description": "redorav/public_source_engines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1500,7 +1500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:28:56.192Z",
+    "last_updated": "2026-10-03T04:48:19.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of awesome game engines for everything😎",
