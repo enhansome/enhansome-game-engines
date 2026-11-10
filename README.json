@@ -15,11 +15,11 @@
             "id": 23955091,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:04:26Z",
+            "last_commit": "2026-11-09T10:57:34Z",
             "open_issues": 12,
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
-            "stars": 1628,
+            "stars": 1629,
             "topics": [
               "3d",
               "android",
@@ -57,7 +57,7 @@
             "open_issues": 29,
             "owner": "scallyw4g",
             "repo": "bonsai",
-            "stars": 1472,
+            "stars": 1474,
             "topics": [
               "engine",
               "game",
@@ -129,11 +129,11 @@
             "id": 32973467,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T22:18:03Z",
-            "open_issues": 278,
+            "last_commit": "2026-11-10T01:13:04Z",
+            "open_issues": 277,
             "owner": "codenameone",
             "repo": "CodenameOne",
-            "stars": 1940,
+            "stars": 1946,
             "topics": [
               "android",
               "aot",
@@ -175,7 +175,7 @@
             "open_issues": 97,
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "2d-game-engine",
               "3d-game-engine",
@@ -243,11 +243,11 @@
             "id": 1036687907,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T01:58:29Z",
+            "last_commit": "2026-11-09T12:51:31Z",
             "open_issues": 34,
             "owner": "anjo76",
             "repo": "angelscript",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
@@ -274,7 +274,7 @@
             "open_issues": 78,
             "owner": "GaijinEntertainment",
             "repo": "DagorEngine",
-            "stars": 2990,
+            "stars": 2992,
             "topics": []
           },
           "first_seen": "2026-08-29T01:51:51.470Z"
@@ -318,11 +318,11 @@
             "id": 70403001,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T22:14:27Z",
+            "last_commit": "2026-11-09T21:21:48Z",
             "open_issues": 5,
             "owner": "gecko0307",
             "repo": "dagon",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "3d",
               "3d-engine",
@@ -374,11 +374,11 @@
             "id": 10721619,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T19:45:27Z",
+            "last_commit": "2026-11-09T18:32:43Z",
             "open_issues": 281,
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13612,
+            "stars": 13616,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -408,8 +408,8 @@
             "id": 18179848,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:23:38Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-09T21:03:53Z",
+            "open_issues": 32,
             "owner": "ezEngine",
             "repo": "ezEngine",
             "stars": 2036,
@@ -441,7 +441,7 @@
             "id": 178597005,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T17:43:48Z",
+            "last_commit": "2026-11-09T20:26:24Z",
             "open_issues": 60,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
@@ -479,11 +479,11 @@
             "id": 15634981,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-07T11:39:36Z",
-            "open_issues": 19016,
+            "last_commit": "2026-11-09T17:17:30Z",
+            "open_issues": 19034,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 119805,
+            "stars": 119894,
             "topics": [
               "game-development",
               "game-engine",
@@ -701,11 +701,11 @@
             "id": 14590125,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:18:22Z",
+            "last_commit": "2026-11-09T23:47:11Z",
             "open_issues": 34,
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3900,
+            "stars": 3901,
             "topics": [
               "3d-game-engine",
               "data-oriented-design",
@@ -834,7 +834,7 @@
             "open_issues": 11,
             "owner": "hotstreams",
             "repo": "limitless-engine",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "3d-graphics",
               "bloom",
@@ -882,7 +882,7 @@
             "open_issues": 165,
             "owner": "hexops",
             "repo": "mach",
-            "stars": 4863,
+            "stars": 4864,
             "topics": [
               "composable",
               "cross-platform",
@@ -950,7 +950,7 @@
           "first_seen": "2026-10-14T21:53:36.627Z"
         }
       ],
-      "title": "M (6):"
+      "title": "M (7):"
     },
     {
       "description": null,
@@ -967,8 +967,8 @@
             "id": 11965691,
             "language": "F#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T13:09:15Z",
-            "open_issues": 204,
+            "last_commit": "2026-11-09T23:00:50Z",
+            "open_issues": 205,
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1379,
@@ -992,7 +992,7 @@
             "open_issues": 1,
             "owner": "nCine",
             "repo": "nCine",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "android",
               "cpp11",
@@ -1029,7 +1029,7 @@
             "id": 164856783,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T14:17:40Z",
+            "last_commit": "2026-11-09T21:34:21Z",
             "open_issues": 30,
             "owner": "gscept",
             "repo": "nebula",
@@ -1105,6 +1105,44 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Pyxel",
+          "description": "An open-source retro game engine for Python with built-in editors for pixel art, tilemaps, sound effects, and music. Games can run on desktop and in a browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A retro game engine for Python",
+            "homepage": null,
+            "id": 136780445,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-05T16:23:08Z",
+            "open_issues": 13,
+            "owner": "kitao",
+            "repo": "pyxel",
+            "stars": 18583,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "graphics",
+              "html",
+              "opengl",
+              "pico-8",
+              "pixel-art",
+              "python",
+              "pyxel",
+              "retro-game",
+              "rust",
+              "tic-80",
+              "wasm",
+              "webgl"
+            ]
+          },
+          "first_seen": "2026-11-10T01:44:01.856Z"
+        },
+        {
+          "node_type": "item",
           "title": "Parin",
           "description": "A delightfully simple 2D game engine for the D programming language. Parin is designed to make game development fast and fun — it's easy to set up, hackable, and comes with the essentials built in.",
           "children": [],
@@ -1177,7 +1215,7 @@
           "first_seen": "2026-10-14T21:53:36.627Z"
         }
       ],
-      "title": "P (3):"
+      "title": "P (4):"
     },
     {
       "description": null,
@@ -1194,8 +1232,8 @@
             "id": 54325713,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-08T13:25:08Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-09T12:16:29Z",
+            "open_issues": 103,
             "owner": "rbfx",
             "repo": "rbfx",
             "stars": 1052,
@@ -1312,11 +1350,11 @@
             "id": 128689753,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T08:41:14Z",
+            "last_commit": "2026-11-09T08:12:07Z",
             "open_issues": 0,
             "owner": "fegennari",
             "repo": "3DWorld",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "artificial-intelligence",
               "building-generator",
@@ -1477,7 +1515,7 @@
             "id": 1106692602,
             "language": "Luau",
             "license": "MIT",
-            "last_commit": "2026-11-08T22:22:51Z",
+            "last_commit": "2026-11-08T22:54:52Z",
             "open_issues": 3,
             "owner": "vanyle",
             "repo": "vectarine",
@@ -1555,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:23:02.146Z",
+    "last_updated": "2026-11-10T01:44:01.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "The list of awesome game engines for everything😎",
@@ -1563,8 +1601,8 @@
       "id": 692994172,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-10-14T12:19:41Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-09T09:05:05Z",
+      "open_issues": 1,
       "owner": "ChessMax",
       "repo": "awesome-game-engines",
       "stars": 161,
@@ -1575,7 +1613,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "ff91099a48f71a101bfacaa2c3da731c99048db7",
+    "original_repository_sha": "a02340c2a67f189692e0a17016f7b6001d99cdb1",
     "enhanced_repository": "enhansome/enhansome-game-engines",
     "enhanced_repository_description": null,
     "title": "Awesome game engines with stars"
